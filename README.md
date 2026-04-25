@@ -14,6 +14,5 @@ This project analyzes IKEA's product portfolio using SQL and Tableau to identify
 * **Efficiency Metric:** Created a "Price Rate" calculated field to find products with high ratings at lower price points.
 
 ## 📊 Dashboard Preview
-![IKEA Dashboard](Ikea_Kpi_Dashboard.png)
 
-*If the image above doesn't load, please check the [Ikea-Kpi_Dashboard.png](./Ikea_Kpi_Dashboard.png) file directly.*
+<img width="1298" height="1408" alt="Ikea_Kpi_Dashboard" src="https://github.com/user-attachments/assets/98aa5a3f-d72a-4002-8976-8fd90aa741a6" />
