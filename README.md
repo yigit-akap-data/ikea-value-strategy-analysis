@@ -42,3 +42,12 @@ SELECT
         ELSE 'Lower-Value'
     END AS price_rate
 FROM ikea;
+
+
+## 📊 Tableau Dashboard Insights
+The final interactive dashboard provides a 360-degree view of the portfolio:
+* **Portfolio Distribution:** A donut chart showing the split between Economic, Mid-Range, and Premium products.
+* **Value Mapping:** A Treemap identifying which categories offer the best "Value for Money."
+* **Efficiency Analysis:** A scatter plot highlighting products with high ratings but low prices (The "Sweet Spot").
+
+![IKEA Dashboard](Ikea-Kpi_Dashboard.png)
