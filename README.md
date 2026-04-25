@@ -50,4 +50,4 @@ The final interactive dashboard provides a 360-degree view of the portfolio:
 * **Value Mapping:** A Treemap identifying which categories offer the best "Value for Money."
 * **Efficiency Analysis:** A scatter plot highlighting products with high ratings but low prices (The "Sweet Spot").
 
-![IKEA Dashboard](Ikea-Kpi_Dashboard.png)
+![IKEA Dashboard](./Ikea-Kpi_Dashboard.png)
